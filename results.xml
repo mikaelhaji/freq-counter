@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1712894406" />
+    <testcase name="test_load" classname="test.test_frequency_counter" file="/home/mhaji/asic_tools/frequency_counter/test/test_frequency_counter.py" lineno="21" time="0.004340410232543945" sim_time_ns="490000.001" ratio_time="112892555.02303235" />
+    <testcase name="test_all" classname="test.test_frequency_counter" file="/home/mhaji/asic_tools/frequency_counter/test/test_frequency_counter.py" lineno="30" time="0.7536160945892334" sim_time_ns="1200368.651" ratio_time="1592811.8568835421" />
+  </testsuite>
+</testsuites>
